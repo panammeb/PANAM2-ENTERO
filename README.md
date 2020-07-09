@@ -10,6 +10,7 @@ REFERENCE_BASE	<path to>/bd_entero
 The primers targetting the VP1 capsid are the following:
 
 FORWARD_PRIMER_SEQUENCE	ACCAGCACTGACAGCAGYNGARAYNGG
+
 REVERSE_PRIMER_SEQUENCE	TACTGGACCACCTGGNGGNAYRWACAT
 
 Examples for filling the ".ini" file can be found in the PANAM2 repository 
