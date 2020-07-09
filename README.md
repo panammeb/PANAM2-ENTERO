@@ -1,9 +1,9 @@
 # PANAM2-ENTERO
 
 This repository contains a dedicated database for analysing enterovirus with PANAM2. For using the pipelines, read in a first step the README associated to the 
-repository associated to PANAM2 and clone it on your computer (https://github.com/panammeb/PANAM2.git). 
+repository PANAM2 and clone it on your computer (https://github.com/panammeb/PANAM2.git). 
 
-In a second step clone this repository and the file ".ini" (entero.ini as example) must include at least the following lines:
+In a second step clone this repository and the file ".ini" (entero.ini as example included) must include at least the following lines:
 
 REFERENCE_BASE	<path to>/bd_entero
 
